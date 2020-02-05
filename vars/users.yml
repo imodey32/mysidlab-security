@@ -1,8 +1,8 @@
 ---
 users:
   - name: ayee-user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "tokyo, yokohama, saitama"
   - name: ayee-user2
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "osaka, kyoto, kobe"
   - name: ayee-user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "sapporo, noboribetsu, chitose"
